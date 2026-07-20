@@ -1,6 +1,20 @@
 {
-  "generated": "2026-07-20T15:06:58.150Z",
+  "generated": "2026-07-20T18:18:01.750Z",
   "issues": [
+    {
+      "date": "2026-07-21",
+      "edition": "Vol. IV • No. 10",
+      "title": "Summer 2026: Bodies, Borders & Bandwidth",
+      "subtitle": "Summer 2026: Bodies, Borders & Bandwidth",
+      "description": "A broadsheet exploring embodied computation, border surveillance art, and low-bandwidth community networks across Southeast Asia and Southern Europe.",
+      "scopeShort": "Global (SE Asia, EU, Africa, Americas)",
+      "contentTypes": [
+        "festival",
+        "theory"
+      ],
+      "coverThumb": "journals/2026-07-21/assets/jakarta_biennial.jpg",
+      "articleCount": 2
+    },
     {
       "date": "2026-07-20",
       "edition": "Vol. IV • No. 9",

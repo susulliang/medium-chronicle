@@ -1,0 +1,31 @@
+{
+  "title": "Global Festival & Exhibition Index",
+  "subtitle": "Calendar covering SE Asia, EU, Africa, and Americas (2026)",
+  "columns": ["Outlet / Program", "Date (2026)", "Region & Location", "Core Scope / Theme"],
+  "rows": [
+    {
+      "type": "festival",
+      "name": "Jakarta Biennale 2026",
+      "date": "Aug 1 – Sept 15, 2026",
+      "region": "Southeast Asia (Jakarta, Indonesia)",
+      "theme": "The Body as Infrastructure",
+      "badge": "festival"
+    },
+    {
+      "type": "theory",
+      "name": "Sonic Borders Symposium",
+      "date": "Aug 20 – 22, 2026",
+      "region": "Europe (Athens, Greece)",
+      "theme": "Acoustic Data & Political Testimony",
+      "badge": "symposium"
+    },
+    {
+      "type": "trends",
+      "name": "Lagos Media Lab Residency",
+      "date": "Sept – Dec 2026",
+      "region": "Africa (Lagos, Nigeria)",
+      "theme": "Low-bandwidth Community Networks",
+      "badge": "ongoing"
+    }
+  ]
+}

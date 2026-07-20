@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-21",
+  "edition": "Vol. IV • No. 10",
+  "title": "The Metamedium Chronicle",
+  "subtitle": "Summer 2026: Bodies, Borders & Bandwidth",
+  "description": "A broadsheet exploring embodied computation, border surveillance art, and low-bandwidth community networks across Southeast Asia and Southern Europe.",
+  "scope": "Jakarta • Athens • Lagos • Montréal • Seoul",
+  "scopeShort": "Global (SE Asia, EU, Africa, Americas)",
+  "defaultTheme": "paper",
+  "articles": [
+    {
+      "id": "jakarta-biennial",
+      "type": "festival",
+      "layout": "main",
+      "columns": 3,
+      "kicker": "Feature Report • Southeast Asia",
+      "title": "Jakarta Biennale 2026: The Body as Infrastructure",
+      "subtitle": "Indonesian artists reclaim the nervous system as a political site.",
+      "author": "Sari Wijaya, Southeast Asia Correspondent",
+      "location": "Jakarta, Indonesia",
+      "coverImage": "assets/jakarta_biennial.jpg",
+      "coverCaption": "Fig 1. Wearable biosensor installation by Mia Raharjo, Jakarta Art Space.",
+      "file": "articles/jakarta-biennial.md"
+    },
+    {
+      "id": "border-sound",
+      "type": "theory",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Media Theory Corner",
+      "title": "Listening at the Edge: Sound Art and Border Surveillance",
+      "subtitle": "How artists are turning acoustic data into political testimony.",
+      "author": "Dr. Amara Nwosu",
+      "location": "Lagos / Athens",
+      "coverImage": null,
+      "file": "articles/border-sound.md"
+    }
+  ],
+  "infographics": {
+    "radar": "infographics/radar.json",
+    "calendar": "infographics/calendar.json"
+  }
+}

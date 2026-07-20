@@ -1,0 +1,63 @@
+{
+  "title": "Trend Radar",
+  "subtitle": "Interactive Media Art Coordinates (Aug 2026)",
+  "vertices": [
+    {
+      "key": "embodiment",
+      "label": "EMBODIMENT",
+      "x": 100, "y": 36,
+      "labelX": 100, "labelY": 14,
+      "labelAnchor": "middle",
+      "title": "Embodied Computation",
+      "strength": 88,
+      "description": "Biosensors, neural interfaces, and wearables as artistic material..."
+    },
+    {
+      "key": "surveillance",
+      "label": "SURVEILLANCE",
+      "x": 168, "y": 77,
+      "labelX": 184, "labelY": 73,
+      "labelAnchor": "start",
+      "title": "Counter-Surveillance Art",
+      "strength": 82,
+      "description": "Artists using acoustic, thermal, and RF data to expose border apparatus..."
+    },
+    {
+      "key": "lowtech",
+      "label": "LOW-TECH",
+      "x": 135, "y": 149,
+      "labelX": 154, "labelY": 177,
+      "labelAnchor": "start",
+      "title": "Low-Bandwidth Networks",
+      "strength": 74,
+      "description": "Mesh radio, SMS art, and community-owned infrastructure..."
+    },
+    {
+      "key": "textile",
+      "label": "TEXTILE",
+      "x": 60, "y": 155,
+      "labelX": 46, "labelY": 177,
+      "labelAnchor": "end",
+      "title": "Textile + Computation",
+      "strength": 68,
+      "description": "Hand-woven circuit diagrams and e-textile interventions..."
+    },
+    {
+      "key": "sonic",
+      "label": "SONIC",
+      "x": 47, "y": 82,
+      "labelX": 16, "labelY": 73,
+      "labelAnchor": "end",
+      "title": "Sonic Geopolitics",
+      "strength": 79,
+      "description": "Sound as testimony, acoustic data as political archive..."
+    }
+  ],
+  "gridPolygons": [
+    "100,20 176,75 147,165 53,165 24,75",
+    "100,40 157,81 135,149 65,149 43,81",
+    "100,60 138,88 122,132 78,132 62,88",
+    "100,80 119,94 111,116 89,116 81,94"
+  ],
+  "valuePolygon": "100,36 168,77 135,149 60,155 47,82"
+}
