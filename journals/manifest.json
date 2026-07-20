@@ -1,6 +1,21 @@
 {
-  "generated": "2026-07-20T21:37:22.709Z",
+  "generated": "2026-07-20T22:05:22.655Z",
   "issues": [
+    {
+      "date": "2026-07-22",
+      "edition": "Vol. V • No. 8",
+      "title": "Summer 2026: Sculpting Photons & Hardware Luminescence",
+      "subtitle": "Summer 2026: Sculpting Photons & Hardware Luminescence",
+      "description": "A broadsheet exploring real-time projection mapping, the hardware decay of physical lamps, and the linguistics of light in experimental modern art.",
+      "scopeShort": "Global (UK, EU, Americas)",
+      "contentTypes": [
+        "review",
+        "theory",
+        "trends"
+      ],
+      "coverThumb": "journals/2026-07-22/assets/volumetric_light.jpg",
+      "articleCount": 5
+    },
     {
       "date": "2026-07-21",
       "edition": "Vol. V • No. 7",

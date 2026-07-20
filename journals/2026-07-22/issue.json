@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-22",
+  "edition": "Vol. V • No. 8",
+  "title": "The Metamedium Chronicle",
+  "subtitle": "Summer 2026: Sculpting Photons & Hardware Luminescence",
+  "description": "A broadsheet exploring real-time projection mapping, the hardware decay of physical lamps, and the linguistics of light in experimental modern art.",
+  "scope": "Global (Digital, Networked, Spatial)",
+  "scopeShort": "Global (UK, EU, Americas)",
+  "defaultTheme": "paper",
+  "articles": [
+    {
+      "id": "volumetric-projection",
+      "type": "review",
+      "layout": "main",
+      "columns": 3,
+      "kicker": "Installation Review • Real-Time Light",
+      "title": "Sculpting Photons: Volumetric Projection and Live AI",
+      "subtitle": "Pushing real-time generative pipelines beyond the screen and into spatial fog.",
+      "author": "Elena Rostova",
+      "location": "Rhizome / Leonardo Context",
+      "coverImage": "assets/volumetric_light.jpg",
+      "coverCaption": "Fig 1. Real-time latent space generation mapped onto physical vapor.",
+      "file": "articles/volumetric-projection.md"
+    },
+    {
+      "id": "hardware-decay",
+      "type": "theory",
+      "layout": "main",
+      "columns": 2,
+      "kicker": "Archive Studies • Illumination",
+      "title": "The Tungsten Crisis: Archiving Hardware-Dependent Light",
+      "subtitle": "When the meaning of an installation relies on an obsolete projector bulb.",
+      "author": "Dr. Amara Nwosu",
+      "location": "ADA / Media-N Context",
+      "coverImage": "assets/hardware_decay.jpg",
+      "coverCaption": "Fig 2. Deprecated halogen fixtures cataloged for preservation.",
+      "file": "articles/hardware-decay.md"
+    },
+    {
+      "id": "syntax-of-illumination",
+      "type": "theory",
+      "layout": "main",
+      "columns": 2,
+      "kicker": "Theory Corner • Linguistics",
+      "title": "The Syntax of LEDs: Information Density in DMX Protocols",
+      "subtitle": "Analyzing lighting arrays as a form of comparative literature and computational syntax.",
+      "author": "Dr. Julian Vance",
+      "location": "Monoskop / Grey Room",
+      "coverImage": null,
+      "file": "articles/syntax-of-illumination.md"
+    },
+    {
+      "id": "kinetic-lamps",
+      "type": "trends",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Design Trends • Tangible Media",
+      "title": "Tactile Luminescence: The Return of the Physical Lamp",
+      "subtitle": "Why experimental artists are abandoning screens for custom-built kinetic lighting.",
+      "author": "Marcus Thorne",
+      "location": "e-flux Journal",
+      "coverImage": null,
+      "file": "articles/kinetic-lamps.md"
+    },
+    {
+      "id": "nocturnal-transit",
+      "type": "review",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Exhibition Review",
+      "title": "Nocturnal Interfaces in Overnight Spaces",
+      "subtitle": "Light art designed for the temporal displacement of the night shift.",
+      "author": "Sari Wijaya",
+      "location": "Furtherfield Context",
+      "coverImage": null,
+      "file": "articles/nocturnal-transit.md"
+    }
+  ],
+  "infographics": {
+    "radar": "infographics/radar.json",
+    "calendar": "infographics/calendar.json"
+  }
+}

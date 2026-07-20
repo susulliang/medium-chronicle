@@ -1,0 +1,31 @@
+{
+  "title": "Global Projection & Light Art Index",
+  "subtitle": "Exhibitions and Symposiums (Summer/Fall 2026)",
+  "columns": ["Event / Platform", "Date (2026)", "Region & Location", "Core Scope / Theme"],
+  "rows": [
+    {
+      "type": "festival",
+      "name": "Lumiere Festival: The Master's Cut",
+      "date": "Oct 15 – Oct 18, 2026",
+      "region": "Europe (London, UK)",
+      "theme": "Post-graduate Portfolios in Kinetic Lighting",
+      "badge": "festival"
+    },
+    {
+      "type": "theory",
+      "name": "Media-N Hardware Archival Summit",
+      "date": "Nov 2 – 4, 2026",
+      "region": "North America (Montreal, Canada)",
+      "theme": "Preserving the Tungsten Era",
+      "badge": "symposium"
+    },
+    {
+      "type": "trends",
+      "name": "Rhizome Volumetric Anthology",
+      "date": "Aug – Dec 2026",
+      "region": "Web (Online)",
+      "theme": "Real-Time Latent Space in 3D",
+      "badge": "ongoing"
+    }
+  ]
+}

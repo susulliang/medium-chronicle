@@ -1,0 +1,63 @@
+{
+  "title": "Trend Radar",
+  "subtitle": "Light & Projection Art Coordinates (July 2026)",
+  "vertices": [
+    {
+      "key": "volumetric",
+      "label": "VOLUMETRIC",
+      "x": 100, "y": 36,
+      "labelX": 100, "labelY": 14,
+      "labelAnchor": "middle",
+      "title": "Volumetric Projection",
+      "strength": 94,
+      "description": "Real-time AI mapping onto physical fog and spatial architectures..."
+    },
+    {
+      "key": "kinetic",
+      "label": "KINETIC LAMPS",
+      "x": 168, "y": 77,
+      "labelX": 184, "labelY": 73,
+      "labelAnchor": "start",
+      "title": "Tactile Luminescence",
+      "strength": 88,
+      "description": "Custom-built, robotic lighting fixtures replacing flat screens..."
+    },
+    {
+      "key": "syntax",
+      "label": "SYNTAX",
+      "x": 135, "y": 149,
+      "labelX": 154, "labelY": 177,
+      "labelAnchor": "start",
+      "title": "Linguistics of Light",
+      "strength": 82,
+      "description": "Information density metrics applied to DMX and LED programming..."
+    },
+    {
+      "key": "nocturnal",
+      "label": "NOCTURNAL",
+      "x": 60, "y": 155,
+      "labelX": 46, "labelY": 177,
+      "labelAnchor": "end",
+      "title": "Temporal Displacement",
+      "strength": 75,
+      "description": "Installations designed for overnight shifts and 24-hour transit spaces..."
+    },
+    {
+      "key": "archive",
+      "label": "HARDWARE DECAY",
+      "x": 47, "y": 82,
+      "labelX": 16, "labelY": 73,
+      "labelAnchor": "end",
+      "title": "Bulb Obsolescence",
+      "strength": 85,
+      "description": "The archival crisis of preserving specific tungsten and halogen aesthetics..."
+    }
+  ],
+  "gridPolygons": [
+    "100,20 176,75 147,165 53,165 24,75",
+    "100,40 157,81 135,149 65,149 43,81",
+    "100,60 138,88 122,132 78,132 62,88",
+    "100,80 119,94 111,116 89,116 81,94"
+  ],
+  "valuePolygon": "100,26 165,75 140,140 62,142 50,80"
+}
