@@ -1,0 +1,119 @@
+{
+  "title": "Global Festival & Exhibition Index",
+  "subtitle": "Calendar covering Europe, US, and East Asia (2026)",
+  "columns": ["Outlet / Program", "Date (2026)", "Region & Location", "Core Scope / Theme"],
+  "rows": [
+    {
+      "type": "festivals",
+      "name": "Transmediale 39",
+      "date": "Jan 28 – Feb 1, 2026",
+      "region": "Europe (Berlin, Germany)",
+      "theme": "By the Mango Belt & Tamarind Road",
+      "badge": "festival"
+    },
+    {
+      "type": "festivals",
+      "name": "CTM Festival 2026",
+      "date": "Jan 23 – Feb 1, 2026",
+      "region": "Europe (Berlin, Germany)",
+      "theme": "dissonate <> resonate",
+      "badge": "festival"
+    },
+    {
+      "type": "trends",
+      "name": "Ryuichi Sakamoto Retro",
+      "date": "Feb – July 2026",
+      "region": "East Asia (M+ Hong Kong)",
+      "theme": "seeing sound, hearing time (async-immersion)",
+      "badge": "ongoing"
+    },
+    {
+      "type": "trends",
+      "name": "M+ Design Ah!",
+      "date": "March – August 2026",
+      "region": "East Asia (M+ Hong Kong)",
+      "theme": "Interactive Audiovisual Experiences",
+      "badge": "ongoing"
+    },
+    {
+      "type": "festivals",
+      "name": "Asian Avant-Garde Film Fest",
+      "date": "May 2026",
+      "region": "East Asia (M+ Hong Kong)",
+      "theme": "Moving Image Curation: Space",
+      "badge": "festival"
+    },
+    {
+      "type": "theory",
+      "name": "ZKM next_generation XI",
+      "date": "June 17 – 20, 2026",
+      "region": "Europe (Karlsruhe, Germany)",
+      "theme": "Young Electronic Music Symposium",
+      "badge": "symposium"
+    },
+    {
+      "type": "trends",
+      "name": "NTT ICC Annual 2026",
+      "date": "June 20 – Nov 8, 2026",
+      "region": "East Asia (Tokyo, Japan)",
+      "theme": "What Is Left, What Remains, and What We Take on",
+      "badge": "ongoing"
+    },
+    {
+      "type": "festivals",
+      "name": "Sónar Barcelona",
+      "date": "June 18 – 20, 2026",
+      "region": "Europe (Barcelona, Spain)",
+      "theme": "Immersive advanced multimedia festival",
+      "badge": "festival"
+    },
+    {
+      "type": "trends",
+      "name": "Gray Area TD Showcase",
+      "date": "Through August 2, 2026",
+      "region": "US (San Francisco, CA)",
+      "theme": "TouchDesigner Community Showcase",
+      "badge": "ongoing"
+    },
+    {
+      "type": "trends",
+      "name": "ZKM Media Art Is Here",
+      "date": "Aug 13 – Sept 13, 2026",
+      "region": "Europe (Karlsruhe, Germany)",
+      "theme": "Public Spaces Media Installations",
+      "badge": "ongoing"
+    },
+    {
+      "type": "festivals",
+      "name": "Mutek Montréal 27",
+      "date": "August 25 – 30, 2026",
+      "region": "US/Americas (Montréal, Canada)",
+      "theme": "Amplify & Resonate",
+      "badge": "festival"
+    },
+    {
+      "type": "festivals",
+      "name": "Ars Electronica 2026",
+      "date": "Sept 9 – 13, 2026",
+      "region": "Europe (Linz, Austria)",
+      "theme": "FUTURE BEGINS – Negotiating Humanity",
+      "badge": "festival"
+    },
+    {
+      "type": "trends",
+      "name": "Refik Anadol: M+ Facade",
+      "date": "Autumn 2026",
+      "region": "East Asia (M+ Hong Kong)",
+      "theme": "AI Data Sculpture: Winds of Hong Kong",
+      "badge": "ongoing"
+    },
+    {
+      "type": "theory",
+      "name": "ISEA Dubai 2026",
+      "date": "Nov 6 – 15, 2026",
+      "region": "Middle East (Dubai, UAE)",
+      "theme": "Symposia Series Reschedule",
+      "badge": "symposium"
+    }
+  ]
+}

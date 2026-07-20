@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-20",
+  "edition": "Vol. IV • No. 9",
+  "title": "The Metamedium Chronicle",
+  "subtitle": "Global Media Art & Theory Trends (2026)",
+  "description": "A global broadsheet surveying new media art trends and festival schedules across Europe, the US, and East Asia (Japan, China, Hong Kong).",
+  "scope": "Linz • Berlin • Tokyo • Shanghai • Hong Kong • San Francisco",
+  "scopeShort": "Global (EU, US, East Asia)",
+  "defaultTheme": "paper",
+  "articles": [
+    {
+      "id": "ars-electronica",
+      "type": "festival",
+      "layout": "main",
+      "columns": 3,
+      "kicker": "Special Report • European Center",
+      "title": "Ars Electronica 2026: Negotiating Humanity at the Threshold of the Automated Era",
+      "subtitle": "Marking three decades of innovation, the legendary festival restructures Linz into a decentralized forum as AI agency forces a review of human boundaries.",
+      "author": "Elena Rossi, Media Arts Editor",
+      "location": "Linz, Austria",
+      "coverImage": "assets/ars_electronica.jpg",
+      "coverCaption": "Fig 1. Editorial sketch from the \"Hello Worlds!\" platform, symbolizing organic agency in an automated landscape.",
+      "file": "articles/ars-electronica.md"
+    },
+    {
+      "id": "east-asia",
+      "type": "festival",
+      "layout": "main",
+      "columns": 2,
+      "kicker": "East Asian Dispatch • Sound & Screen",
+      "title": "East Asian Hubs: From Sakamoto's Acoustics to Real-Time Data Winds",
+      "subtitle": "M+ Hong Kong and NTT ICC Tokyo frame the digital landscape with architectural screens, historical retrospectives, and sonic immersions.",
+      "author": "Takashi Kondo, Tokyo Correspondent",
+      "location": "Hong Kong / Tokyo / Shanghai",
+      "coverImage": null,
+      "file": "articles/east-asia.md"
+    },
+    {
+      "id": "material-backlash",
+      "type": "trends",
+      "layout": "main",
+      "columns": 2,
+      "kicker": "Aesthetic Trends",
+      "title": "The Material Backlash: Why Digital Artists are Reclaiming the Physical Hand",
+      "subtitle": "Against the frictionless perfection of algorithms, a counter-movement of slow craft, bio-circuits, and biophilic installations captures institutional interest in 2026.",
+      "author": "Chloe Chen, Contemporary Art Correspondent",
+      "location": "New York / Shanghai",
+      "coverImage": null,
+      "file": "articles/material-backlash.md"
+    },
+    {
+      "id": "transmediale",
+      "type": "festival",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Berlin Dispatch • Channel Focus",
+      "title": "Hammocks & Mango Belts: Transmediale 2026's Counter-Map",
+      "subtitle": "Curators Neema Githere and Juan Pablo García Sossa weave relational technologies that bypass extractive digital infrastructures.",
+      "author": "Julian Vance",
+      "location": "Berlin, Germany",
+      "coverImage": "assets/transmediale.jpg",
+      "coverCaption": "Fig 2. \"Mango Belt\" interface design, blending organic structures with local networking protocols.",
+      "file": "articles/transmediale.md"
+    },
+    {
+      "id": "gray-area",
+      "type": "trends",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "US Spotlight • San Francisco",
+      "title": "West Coast Interventions: Gray Area's Community Code",
+      "subtitle": "San Francisco's creative showcases shift towards cooperative assemblies and interactive learning.",
+      "author": "Sarah Miller",
+      "location": "San Francisco, US",
+      "coverImage": null,
+      "file": "articles/gray-area.md"
+    },
+    {
+      "id": "theory-corner",
+      "type": "theory",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Media Theory Corner",
+      "title": "The Synthetic Public Sphere & the Crisis of Verification",
+      "subtitle": "Critical Media Studies in 2026 confronts the rise of autonomous AI curation, news deserts, and the fragmentation of collective reality.",
+      "author": "Dr. Marcus Aurel",
+      "location": "London, UK",
+      "coverImage": null,
+      "file": "articles/theory-corner.md"
+    }
+  ],
+  "infographics": {
+    "radar": "infographics/radar.json",
+    "calendar": "infographics/calendar.json"
+  }
+}

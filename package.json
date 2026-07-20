@@ -1,0 +1,20 @@
+{
+  "name": "medium-chronicle",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The Metamedium Chronicle — a global broadside of digital art, media studies, and experimental curation.",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/copy-journals.js",
+    "preview": "vite preview",
+    "manifest": "node scripts/generate-manifest.js",
+    "add-issue": "node scripts/generate-manifest.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}

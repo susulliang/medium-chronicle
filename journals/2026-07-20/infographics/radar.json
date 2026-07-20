@@ -1,0 +1,73 @@
+{
+  "title": "Trend Radar",
+  "subtitle": "Interactive Media Art Coordinates (2026)",
+  "vertices": [
+    {
+      "key": "tactility",
+      "label": "TACTILITY",
+      "x": 100,
+      "y": 36,
+      "labelX": 100,
+      "labelY": 14,
+      "labelAnchor": "middle",
+      "title": "Tactility (Physical Backlash)",
+      "strength": 80,
+      "description": "A response to digital fatigue and AI generation. Artists are combining physical woodblock prints, ceramics, weaving, and tactile materials with algorithmic CAD templates to build authentic 'slow-made' works that highlight human labor."
+    },
+    {
+      "key": "ai",
+      "label": "AI-AGENTIC",
+      "x": 168,
+      "y": 77,
+      "labelX": 184,
+      "labelY": 73,
+      "labelAnchor": "start",
+      "title": "AI-Agentic Integration",
+      "strength": 90,
+      "description": "AI is transitioning from simple text prompt visualization to an active partner in design. Artists explore agentic models, simulate public discourse ecosystems, hack neural weights, and build custom generative frameworks."
+    },
+    {
+      "key": "eco",
+      "label": "ECOPOLITICS",
+      "x": 135,
+      "y": 149,
+      "labelX": 154,
+      "labelY": 177,
+      "labelAnchor": "start",
+      "title": "Ecopolitics (Biophilic Focus)",
+      "strength": 75,
+      "description": "Embedding environmental data and biological systems into interactive installations. Living moss, mycelium sensors, and climate models reflect real-time planetary dynamics, transforming installations into restorative civic sanctuaries."
+    },
+    {
+      "key": "relational",
+      "label": "RELATIONAL",
+      "x": 60,
+      "y": 155,
+      "labelX": 46,
+      "labelY": 177,
+      "labelAnchor": "end",
+      "title": "Relationality & Low-tech Nets",
+      "strength": 85,
+      "description": "Curations like Transmediale's 'Mango Belt' challenge centralized, high-speed corporate infrastructures. They explore low-bandwidth community networks, digital sovereignty, and relational protocols adapted to local needs."
+    },
+    {
+      "key": "hybridity",
+      "label": "HYBRIDITY",
+      "x": 47,
+      "y": 82,
+      "labelX": 16,
+      "labelY": 73,
+      "labelAnchor": "end",
+      "title": "Hybridity (Spatial Mixed Reality)",
+      "strength": 70,
+      "description": "Blending live theater with spatial computing. Forums like Ars Electronica's 'Staged Realities' combine real-time motion capture, AI actors, and physical performers, altering the boundaries of performance authorship."
+    }
+  ],
+  "gridPolygons": [
+    "100,20 176,75 147,165 53,165 24,75",
+    "100,40 157,81 135,149 65,149 43,81",
+    "100,60 138,88 122,132 78,132 62,88",
+    "100,80 119,94 111,116 89,116 81,94"
+  ],
+  "valuePolygon": "100,36 168,77 135,149 60,155 47,82"
+}
