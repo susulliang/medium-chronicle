@@ -8,8 +8,6 @@ As artists increasingly use code to construct sprawling digital architectures, t
 
 When an artist writes a prompt or a script, they are not just dictating visual output; they are probing the limits of the machine's semantic comprehension. Evaluating the syntax of different programming frameworks reveals that the effectiveness of an algorithmic installation is deeply tied to the descriptive power of its underlying language.
 
-> Computational art is ultimately a test of a language's descriptive power.
-
 This linguistic approach frames the programmer-artist as a structural linguist. By measuring how densely information can be packed into generative protocols, theorists are mapping entirely new topologies of meaning within experimental modern art, treating the algorithm itself as a new form of comparative literature.
 
 ***

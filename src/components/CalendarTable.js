@@ -19,8 +19,8 @@ export function CalendarTable({ data }) {
   el.innerHTML = `
     <div class="calendar-title-row">
       <div>
-        <h3 style="font-family:var(--header-font);font-size:1.3rem;margin-bottom:0.2rem;">${data.title}</h3>
-        <p style="font-family:var(--ui-font);font-size:0.8rem;color:var(--accent-secondary);text-transform:uppercase;">${data.subtitle}</p>
+        <h3>${data.title}</h3>
+        <p class="card-subtitle">${data.subtitle}</p>
       </div>
     </div>
     <table>

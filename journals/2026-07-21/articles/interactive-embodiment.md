@@ -8,8 +8,6 @@ Experimental modern art has long sought to break the invisible wall separating t
 
 Installations now routinely utilize heart-rate monitors, galvanic skin sensors, and spatial tracking to build dynamic feedback loops. The resulting artworks are highly ephemeral, existing entirely in the dialogue between the participant's physical presence and the computational logic of the space.
 
-> The participant does not just trigger the art; their biology becomes the engine driving its execution.
-
 By treating the body as an input device, these installations critique our increasingly monitored existence, forcing participants to confront how seamlessly their physiological data can be harvested and transformed by networked systems.
 
 ***

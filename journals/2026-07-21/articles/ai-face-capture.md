@@ -8,8 +8,6 @@ The shift toward real-time generative AI in physical spaces marks a radical depa
 
 At the center of this movement are face capture technologies that eschew mere replication for live AI animation. Instead of reflecting the viewer's exact likeness, the latent space interprets micro-expressions and translates them into fluid, generative avatars in real-time. 
 
-> When the algorithm observes the observer, the installation becomes a live, unarchivable organism.
-
 This immediacy dissolves the traditional barrier between spectator and artwork. It demands a new critical framework for evaluating real-time generative aesthetics—one that judges the work not by its final visual output, but by the fluidity, latency, and responsiveness of the system itself.
 
 ***
