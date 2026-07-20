@@ -160,8 +160,8 @@ a:hover {
   gap: 1rem;
   flex-wrap: nowrap;
 }
-.metadata-left { display: flex; gap: 1.2rem; align-items: center; white-space: nowrap; }
 .control-panel { display: flex; align-items: center; gap: 1rem; white-space: nowrap; }
+.metadata-right { display: flex; gap: 1.2rem; align-items: center; white-space: nowrap; }
 
 /* Archives button */
 .archives-btn {
@@ -181,27 +181,6 @@ a:hover {
   border-color: var(--text-color);
   background: var(--text-color);
   color: var(--bg-color);
-}
-
-/* Theme toggle */
-.theme-switch-wrapper { display: flex; align-items: center; gap: 0.5rem; font-size:0.65rem; }
-.theme-switch { display: inline-block; height: 20px; position: relative; width: 40px; }
-.theme-switch input { display: none; }
-.slider {
-  background-color: transparent;
-  border: 1px solid var(--text-color);
-  bottom: 0; cursor: pointer; left: 0;
-  position: absolute; right: 0; top: 0;
-  transition: .3s; border-radius: 0;
-}
-.slider:before {
-  background-color: var(--text-color);
-  bottom: 2px; content: ""; height: 14px; left: 2px;
-  position: absolute; transition: .3s; width: 14px; border-radius: 0;
-}
-input:checked + .slider:before {
-  transform: translateX(20px);
-  background-color: var(--accent-color);
 }
 
 /* Search */
@@ -345,11 +324,7 @@ article {
   flex-direction: column;
 }
 article.hidden {
-  opacity: 0;
-  transform: translateY(10px);
-  position: absolute;
-  pointer-events: none;
-  z-index: -1;
+  display: none;
 }
 .article-header { margin-bottom: 0.9rem; }
 .article-kicker {
@@ -624,6 +599,11 @@ p.lead::first-letter {
 }
 [data-theme="cyber"] .calendar-card th { color: var(--accent-color); border-bottom-width: 2px; }
 .calendar-card td { padding: 0.6rem 0.4rem; border-bottom: 1px solid var(--column-rule-color); }
+.calendar-card td strong {
+  font-family: var(--header-font);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
 .calendar-card tr:hover { background-color: rgba(var(--accent-rgb), 0.03); }
 .calendar-card tr.filtered-out { display: none; }
 
@@ -835,7 +815,7 @@ article:nth-child(5) { animation-delay: 0.25s; }
   .masthead-title { font-size: 2.4rem; }
   [data-theme="cyber"] .masthead-title { font-size: 2rem; }
   .top-controls { flex-direction: column; gap: 0.6rem; align-items: flex-start; }
-  .metadata-left, .control-panel { width: 100%; justify-content: space-between; }
+  .metadata-right, .control-panel { width: 100%; justify-content: space-between; }
   .control-panel { justify-content: space-between; }
   .archives-grid { grid-template-columns: 1fr; }
   .submasthead { font-size: 0.6rem; gap: 0.5rem; flex-wrap: wrap; text-align: left; justify-content: flex-start; }

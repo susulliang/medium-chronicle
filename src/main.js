@@ -7,7 +7,6 @@ import { initTheme, setState, getState } from './store.js';
 import { router } from './router.js';
 import { Masthead } from './components/Masthead.js';
 import { TopControls } from './components/TopControls.js';
-import { FilterBar } from './components/FilterBar.js';
 import { IssueViewer } from './components/IssueViewer.js';
 import { ArchivesOverlay, openArchives, closeArchives } from './components/ArchivesOverlay.js';
 
@@ -18,7 +17,6 @@ const app = document.getElementById('app');
 let currentViewer = null;
 let manifest = null;
 let header = null;
-let filterBar = null;
 let issueContainer = null;
 
 async function boot() {
@@ -76,10 +74,6 @@ async function renderIssue(date, isLatest) {
       app.removeChild(header);
       header = null;
     }
-    if (filterBar) {
-      app.removeChild(filterBar);
-      filterBar = null;
-    }
 
     // Rebuild header
     header = document.createElement('header');
@@ -94,15 +88,6 @@ async function renderIssue(date, isLatest) {
     header.appendChild(controls);
     header.appendChild(Masthead(issue));
     app.insertBefore(header, issueContainer);
-
-    // Rebuild filter bar
-    filterBar = FilterBar({
-      contentTypes: [...new Set(issue.articles.map(a => a.type))],
-      onFilter: (key) => {
-        if (currentViewer) currentViewer.filter({ activeFilter: key, searchQuery: getState().searchQuery });
-      },
-    });
-    app.insertBefore(filterBar, issueContainer);
 
     // Render issue
     const viewer = IssueViewer({ issue, isLatest });
@@ -138,15 +123,11 @@ function buildShell() {
   header = document.createElement('header');
   header.className = 'chronicle-header';
 
-  filterBar = document.createElement('div');
-  filterBar.className = 'filter-wrapper';
-
   issueContainer = document.createElement('div');
   issueContainer.id = 'issue-container';
 
   const frag = document.createDocumentFragment();
   frag.appendChild(header);
-  frag.appendChild(filterBar);
   frag.appendChild(issueContainer);
 
   return frag;
