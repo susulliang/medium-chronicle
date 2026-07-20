@@ -1,19 +1,20 @@
 {
-  "generated": "2026-07-20T18:18:01.750Z",
+  "generated": "2026-07-20T18:25:53.323Z",
   "issues": [
     {
       "date": "2026-07-21",
-      "edition": "Vol. IV • No. 10",
-      "title": "Summer 2026: Bodies, Borders & Bandwidth",
-      "subtitle": "Summer 2026: Bodies, Borders & Bandwidth",
-      "description": "A broadsheet exploring embodied computation, border surveillance art, and low-bandwidth community networks across Southeast Asia and Southern Europe.",
-      "scopeShort": "Global (SE Asia, EU, Africa, Americas)",
+      "edition": "Vol. V • No. 7",
+      "title": "Summer 2026: Real-Time Latency & Linguistic Architectures",
+      "subtitle": "Summer 2026: Real-Time Latency & Linguistic Architectures",
+      "description": "A broadsheet exploring real-time generative AI installations, the archive crisis of live digital art, and the comparative linguistics of computational aesthetics.",
+      "scopeShort": "Global (Web, EU, Americas)",
       "contentTypes": [
-        "festival",
-        "theory"
+        "exhibition",
+        "theory",
+        "festival"
       ],
-      "coverThumb": "journals/2026-07-21/assets/jakarta_biennial.jpg",
-      "articleCount": 2
+      "coverThumb": "journals/2026-07-21/assets/live_latent.jpg",
+      "articleCount": 5
     },
     {
       "date": "2026-07-20",
