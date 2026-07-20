@@ -1,6 +1,6 @@
 ---
 id: interactive-embodiment
-type: exhibition
+type: review
 pullQuote: "The participant does not just trigger the art; their biology becomes the engine driving its execution."
 ---
 

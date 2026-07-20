@@ -1,6 +1,6 @@
 ---
 id: ai-face-capture
-type: exhibition
+type: review
 pullQuote: "When the algorithm observes the observer, the installation becomes a live, unarchivable organism."
 ---
 

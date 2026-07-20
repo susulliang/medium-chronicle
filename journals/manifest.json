@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T18:25:53.323Z",
+  "generated": "2026-07-20T18:48:59.613Z",
   "issues": [
     {
       "date": "2026-07-21",
@@ -9,9 +9,8 @@
       "description": "A broadsheet exploring real-time generative AI installations, the archive crisis of live digital art, and the comparative linguistics of computational aesthetics.",
       "scopeShort": "Global (Web, EU, Americas)",
       "contentTypes": [
-        "exhibition",
-        "theory",
-        "festival"
+        "review",
+        "theory"
       ],
       "coverThumb": "journals/2026-07-21/assets/live_latent.jpg",
       "articleCount": 5

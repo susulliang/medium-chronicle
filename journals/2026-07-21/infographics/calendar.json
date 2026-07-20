@@ -1,30 +1,30 @@
 {
-  "title": "Global Festival & Exhibition Index",
-  "subtitle": "Calendar covering SE Asia, EU, Africa, and Americas (2026)",
-  "columns": ["Outlet / Program", "Date (2026)", "Region & Location", "Core Scope / Theme"],
+  "title": "Global New Media Festival & Archival Index",
+  "subtitle": "Exhibitions and Symposiums (Summer/Fall 2026)",
+  "columns": ["Event / Platform", "Date (2026)", "Region & Location", "Core Scope / Theme"],
   "rows": [
     {
       "type": "festival",
-      "name": "Jakarta Biennale 2026",
-      "date": "Aug 1 – Sept 15, 2026",
-      "region": "Southeast Asia (Jakarta, Indonesia)",
-      "theme": "The Body as Infrastructure",
+      "name": "Ars Electronica 2026",
+      "date": "Sept 4 – Sept 8, 2026",
+      "region": "Europe (Linz, Austria)",
+      "theme": "Live AI Animation & Human Feedback",
       "badge": "festival"
     },
     {
       "type": "theory",
-      "name": "Sonic Borders Symposium",
-      "date": "Aug 20 – 22, 2026",
-      "region": "Europe (Athens, Greece)",
-      "theme": "Acoustic Data & Political Testimony",
+      "name": "Media-N Symposium",
+      "date": "Oct 12 – 14, 2026",
+      "region": "North America (New York, USA)",
+      "theme": "Linguistics in Generative Frameworks",
       "badge": "symposium"
     },
     {
       "type": "trends",
-      "name": "Lagos Media Lab Residency",
-      "date": "Sept – Dec 2026",
-      "region": "Africa (Lagos, Nigeria)",
-      "theme": "Low-bandwidth Community Networks",
+      "name": "Rhizome Net Art Anthology",
+      "date": "July – Dec 2026",
+      "region": "Web (Online)",
+      "theme": "Archiving the Ephemeral",
       "badge": "ongoing"
     }
   ]

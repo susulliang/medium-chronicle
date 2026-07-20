@@ -10,10 +10,10 @@
   "articles": [
     {
       "id": "ai-face-capture",
-      "type": "exhibition",
+      "type": "review",
       "layout": "main",
       "columns": 3,
-      "kicker": "Installation Critique • Real-Time AI",
+      "kicker": "Installation Review • Real-Time AI",
       "title": "Mirrors in the Latent Space: Face Capture and Live Animation",
       "subtitle": "How StreamDiffusion and interactive feedback loops are redefining the gallery space.",
       "author": "Elena Rostova",
@@ -21,19 +21,6 @@
       "coverImage": "assets/live_latent.jpg",
       "coverCaption": "Fig 1. Real-time face capture output processing visitor micro-expressions.",
       "file": "articles/ai-face-capture.md"
-    },
-    {
-      "id": "language-density",
-      "type": "theory",
-      "layout": "sidebar",
-      "columns": 1,
-      "kicker": "Theory Corner • Linguistics",
-      "title": "Information Density and the Descriptive Power of Code",
-      "subtitle": "Mapping vocabulary size and language metrics onto generative art systems.",
-      "author": "Dr. Julian Vance",
-      "location": "Leonardo / MIT Press",
-      "coverImage": null,
-      "file": "articles/language-density.md"
     },
     {
       "id": "vinyl-visual-synthesis",
@@ -50,19 +37,6 @@
       "file": "articles/vinyl-visual-synthesis.md"
     },
     {
-      "id": "interactive-embodiment",
-      "type": "festival",
-      "layout": "sidebar",
-      "columns": 1,
-      "kicker": "Exhibition Review",
-      "title": "The Networked Body",
-      "subtitle": "Decentralizing the physical form in experimental modern art.",
-      "author": "Sari Wijaya",
-      "location": "Furtherfield Gallery",
-      "coverImage": null,
-      "file": "articles/interactive-embodiment.md"
-    },
-    {
       "id": "archival-obsolescence",
       "type": "theory",
       "layout": "main",
@@ -74,6 +48,32 @@
       "location": "ADA / Media-N Context",
       "coverImage": null,
       "file": "articles/archival-obsolescence.md"
+    },
+    {
+      "id": "language-density",
+      "type": "theory",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Theory Corner • Linguistics",
+      "title": "Information Density and the Descriptive Power of Code",
+      "subtitle": "Mapping vocabulary size and language metrics onto generative art systems.",
+      "author": "Dr. Julian Vance",
+      "location": "Leonardo / MIT Press",
+      "coverImage": null,
+      "file": "articles/language-density.md"
+    },
+    {
+      "id": "interactive-embodiment",
+      "type": "review",
+      "layout": "sidebar",
+      "columns": 1,
+      "kicker": "Exhibition Review",
+      "title": "The Networked Body",
+      "subtitle": "Decentralizing the physical form in experimental modern art.",
+      "author": "Sari Wijaya",
+      "location": "Furtherfield Gallery",
+      "coverImage": null,
+      "file": "articles/interactive-embodiment.md"
     }
   ],
   "infographics": {
